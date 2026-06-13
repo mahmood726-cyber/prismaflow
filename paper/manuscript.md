@@ -103,7 +103,7 @@ We recommend that systematic review teams use automated flow diagram generators 
 
 ## References
 
-1. Page MJ et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. *BMJ*. 2021;372:n71.
-2. Page MJ et al. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. *BMJ*. 2021;372:n160.
-3. Haddaway NR et al. PRISMA2020: an R package and Shiny app for producing PRISMA 2020-compliant flow diagrams. *Campbell Syst Rev*. 2022;18(2):e1230.
-4. Stovold E et al. Study flow diagrams in Cochrane systematic review updates: an adapted PRISMA flow diagram. *Syst Rev*. 2014;3:54.
+1. Page MJ et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. *BMJ*. 2021;372:n71. doi:10.1136/bmj.n71
+2. Page MJ et al. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews. *BMJ*. 2021;372:n160. doi:10.1136/bmj.n160
+3. Haddaway NR et al. PRISMA2020: an R package and Shiny app for producing PRISMA 2020-compliant flow diagrams. *Campbell Syst Rev*. 2022;18(2):e1230. doi:10.1002/cl2.1230
+4. Stovold E et al. Study flow diagrams in Cochrane systematic review updates: an adapted PRISMA flow diagram. *Syst Rev*. 2014;3:54. doi:10.1186/2046-4053-3-54
